@@ -3,4 +3,4 @@ Every minute, the world loses an area of forest the size of 48 football fields. 
 
 [Here is a link to the dataset](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
 
-[Dataset with images] (https://www.kaggle.com/nikitarom/planets-dataset)
+[Here is a link to the dataset with images](https://www.kaggle.com/nikitarom/planets-dataset)
